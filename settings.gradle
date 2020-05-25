@@ -1,0 +1,2 @@
+include ':app', ':channelbus'
+rootProject.name='ChannelBus'
