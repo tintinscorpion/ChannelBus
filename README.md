@@ -1,7 +1,18 @@
 # ChannelBus
+[![](https://jitpack.io/v/tintinscorpion/ChannelBus.svg)](https://jitpack.io/#tintinscorpion/ChannelBus)
+
+<br>
 This library is based on [Kotlin Coroutines Channel](https://kotlinlang.org/docs/reference/coroutines/channels.html).
 
-###### Implemet the library in your app build.gradle:
+###### Implementation:
+```groovy
+App Level:
+implementation 'com.github.tintinscorpion:ChannelBus:{latest_version}'
+```
+```groovy
+Project Level:
+maven { url 'https://jitpack.io' }
+```
 
 - Register event class:
 ```
