@@ -4,6 +4,10 @@
 <br>
 This library is based on [Kotlin Coroutines Channel](https://kotlinlang.org/docs/reference/coroutines/channels.html).
 
+
+This is static code analysis performed with SonarQube [AnalysisReport](https://sonarcloud.io/dashboard?id=tintinscorpion_ChannelBus)
+
+
 ###### Implementation:
 ```groovy
 App Level:
